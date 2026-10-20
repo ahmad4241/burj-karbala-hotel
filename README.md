@@ -4,6 +4,8 @@ Website for **Burg Karbala Hotel** in Karbala, Iraq: a one-page hotel site in Ar
 
 **Live site:** https://warm-semolina-db2e54.netlify.app
 
+![Burg Karbala Hotel home page](screenshots/home.jpg)
+
 ## What's on the page
 
 - Rooms with photos, guest count and a "Book this room" button
